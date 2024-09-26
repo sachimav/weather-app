@@ -1,5 +1,5 @@
 # weather-app
-simple weather app
+simple console weather app
 
 ## how to use 
 step 01: run this application in your vscode terminal
